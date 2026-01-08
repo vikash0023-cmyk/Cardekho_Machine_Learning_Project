@@ -150,8 +150,7 @@ Model Evaluation
 Business Insights & Recommendations
 
 📎 How to Run This Project
-git clone https://github.com/your-username/cardekho-predictive-analysis.git
-cd cardekho-predictive-analysis
+git clone https://github.com/vikash0023-cmyk/Cardekho_Machine_Learning_Project/tree/main
 pip install -r requirements.txt
 jupyter notebook
 
