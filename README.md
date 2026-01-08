@@ -176,6 +176,9 @@ Feature importance visualization dashboard
 👤 Author
 
 Vikash Kr Madheshiyа
+
 Data Analyst | Machine Learning Enthusiast
+
 📧 Email: vikash6534@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/vikash-kr-madheshiya-375a82239?utm_source=share&utm_campaign  
+
+🔗 LinkedIn: https://www.linkedin.com/in/vikash-kr-madheshiya-375a82239 
